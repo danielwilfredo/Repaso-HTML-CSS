@@ -1,0 +1,48 @@
+/*
+Selectores de etiqueta h1, body, header, ....
+Selector de ID id
+Selector de Clase class
+*/
+body{
+    background-color: darkgray;
+}
+
+h1{
+    color: cadetblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    color: aquamarine;
+}
+
+#idazul{
+    color: blue;
+    font-size: 50px;;
+}
+.claserojo{
+    color: red;
+    font-size: 25px;;
+}
+
+.pokemon{
+    height: 250px;
+    width: 250px;
+}
+
+div p span{
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+}
+div p {
+    color: green;
+    font-weight: bold;
+}
+a{
+    color: purple;
+    font-size: 50px;
+    font-weight: bold;
+}
+
